@@ -1,0 +1,80 @@
+/*style for main page*/
+ html,
+        body
+        {
+             background-image: url(http://www.imajineweb.com/images/tutorials/rainbowpattern/rainbowbg6.jpg);
+             background-size: cover;
+             background-repeat: no-repeat;
+              width:100%; 
+            
+        }
+        /*body{*/
+           
+        /*   width:auto; */
+        /*}*/
+        header{
+            display: inline-block;
+            width: 100%;
+            height: 100px;
+            /*font-family: 'Sansita', sans-serif;*/
+            /*font-family: 'Exo', sans-serif;*/
+            font-family: 'Play', sans-serif;
+          
+        }
+        h1{
+            font-size: 100pt;
+            font-weight: bold; 
+            float: left;
+            padding-right: 50px;
+        }
+        h2{
+            font-size: 16pt;
+            font-style: italic;
+        }
+        .menu li{
+            position: relative;
+            top: 80px;
+            right: 0;
+            display:inline;
+            text-align: center;
+            font-size: 30pt; 
+            padding-left:30px;
+            padding-right: 30px;
+        }
+        .body1{
+            position: absolute;
+            left: 0;
+            top: 10%;
+            width: 100%;
+            text-align: center;
+            float: right;
+            /*margin: 0 0 10px 10px;*/
+            
+        }
+        #para1{
+            font-size: 30pt;
+            font-family: 'Play', sans-serif;
+        }
+        p:hover, h1:hover, a:hover {
+    background-color: yellow;
+    }
+        
+ /*Style for Method 1*/
+ 
+ #picS{
+     padding-top: 50pt;
+     float: right;
+     }
+ 
+ /*Style for Method 2*/
+ #picI{
+     position: relative;
+     top: 80px;
+     right: 0;
+ }
+ 
+ /*Style for Method 3*/
+ #picA{
+     padding-top: 50pt;
+     float: left;
+ }
