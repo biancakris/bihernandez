@@ -1,0 +1,853 @@
+[15-Feb-2018 01:58:22 UTC] PHP Parse error:  syntax error, unexpected ')', expecting '&' or variable (T_VARIABLE) in /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/inc/functions.php on line 66
+[15-Feb-2018 01:58:22 UTC] PHP Stack trace:
+[15-Feb-2018 01:58:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:0
+[15-Feb-2018 02:11:04 UTC] PHP Warning:  include(../index.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/inc/functions.php on line 2
+[15-Feb-2018 02:11:04 UTC] PHP Stack trace:
+[15-Feb-2018 02:11:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:0
+[15-Feb-2018 02:11:04 UTC] PHP   2. include() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:3
+[15-Feb-2018 02:11:04 UTC] PHP Warning:  include(): Failed opening '../index.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/inc/functions.php on line 2
+[15-Feb-2018 02:11:04 UTC] PHP Stack trace:
+[15-Feb-2018 02:11:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:0
+[15-Feb-2018 02:11:04 UTC] PHP   2. include() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:3
+[15-Feb-2018 02:11:34 UTC] PHP Fatal error:  Cannot redeclare displaySymbol() (previously declared in /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/inc/functions.php:5) in /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/inc/functions.php on line 5
+[15-Feb-2018 02:11:34 UTC] PHP Stack trace:
+[15-Feb-2018 02:11:34 UTC] PHP   1. {main}() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:0
+[15-Feb-2018 02:11:34 UTC] PHP   2. include() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:3
+[15-Feb-2018 02:11:34 UTC] PHP   3. include() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/inc/functions.php:2
+[15-Feb-2018 02:11:52 UTC] PHP Warning:  include(777/index.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/inc/functions.php on line 2
+[15-Feb-2018 02:11:52 UTC] PHP Stack trace:
+[15-Feb-2018 02:11:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:0
+[15-Feb-2018 02:11:52 UTC] PHP   2. include() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:3
+[15-Feb-2018 02:11:52 UTC] PHP Warning:  include(): Failed opening '777/index.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/inc/functions.php on line 2
+[15-Feb-2018 02:11:52 UTC] PHP Stack trace:
+[15-Feb-2018 02:11:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:0
+[15-Feb-2018 02:11:52 UTC] PHP   2. include() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:3
+[15-Feb-2018 02:11:55 UTC] PHP Warning:  include(777/index.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/inc/functions.php on line 2
+[15-Feb-2018 02:11:55 UTC] PHP Stack trace:
+[15-Feb-2018 02:11:55 UTC] PHP   1. {main}() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:0
+[15-Feb-2018 02:11:55 UTC] PHP   2. include() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:3
+[15-Feb-2018 02:11:55 UTC] PHP Warning:  include(): Failed opening '777/index.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/inc/functions.php on line 2
+[15-Feb-2018 02:11:55 UTC] PHP Stack trace:
+[15-Feb-2018 02:11:55 UTC] PHP   1. {main}() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:0
+[15-Feb-2018 02:11:55 UTC] PHP   2. include() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:3
+[15-Feb-2018 02:11:55 UTC] PHP Warning:  include(777/index.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/inc/functions.php on line 2
+[15-Feb-2018 02:11:56 UTC] PHP Stack trace:
+[15-Feb-2018 02:11:56 UTC] PHP   1. {main}() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:0
+[15-Feb-2018 02:11:56 UTC] PHP   2. include() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:3
+[15-Feb-2018 02:11:56 UTC] PHP Warning:  include(): Failed opening '777/index.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/inc/functions.php on line 2
+[15-Feb-2018 02:11:56 UTC] PHP Stack trace:
+[15-Feb-2018 02:11:56 UTC] PHP   1. {main}() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:0
+[15-Feb-2018 02:11:56 UTC] PHP   2. include() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:3
+[15-Feb-2018 02:11:56 UTC] PHP Warning:  include(777/index.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/inc/functions.php on line 2
+[15-Feb-2018 02:11:56 UTC] PHP Stack trace:
+[15-Feb-2018 02:11:56 UTC] PHP   1. {main}() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:0
+[15-Feb-2018 02:11:56 UTC] PHP   2. include() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:3
+[15-Feb-2018 02:11:56 UTC] PHP Warning:  include(): Failed opening '777/index.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/inc/functions.php on line 2
+[15-Feb-2018 02:11:56 UTC] PHP Stack trace:
+[15-Feb-2018 02:11:56 UTC] PHP   1. {main}() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:0
+[15-Feb-2018 02:11:56 UTC] PHP   2. include() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:3
+[15-Feb-2018 02:11:57 UTC] PHP Warning:  include(777/index.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/inc/functions.php on line 2
+[15-Feb-2018 02:11:57 UTC] PHP Stack trace:
+[15-Feb-2018 02:11:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:0
+[15-Feb-2018 02:11:57 UTC] PHP   2. include() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:3
+[15-Feb-2018 02:11:57 UTC] PHP Warning:  include(): Failed opening '777/index.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/inc/functions.php on line 2
+[15-Feb-2018 02:11:57 UTC] PHP Stack trace:
+[15-Feb-2018 02:11:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:0
+[15-Feb-2018 02:11:57 UTC] PHP   2. include() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:3
+[15-Feb-2018 02:11:57 UTC] PHP Warning:  include(777/index.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/inc/functions.php on line 2
+[15-Feb-2018 02:11:57 UTC] PHP Stack trace:
+[15-Feb-2018 02:11:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:0
+[15-Feb-2018 02:11:57 UTC] PHP   2. include() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:3
+[15-Feb-2018 02:11:57 UTC] PHP Warning:  include(): Failed opening '777/index.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/inc/functions.php on line 2
+[15-Feb-2018 02:11:57 UTC] PHP Stack trace:
+[15-Feb-2018 02:11:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:0
+[15-Feb-2018 02:11:57 UTC] PHP   2. include() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:3
+[15-Feb-2018 02:11:58 UTC] PHP Warning:  include(777/index.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/inc/functions.php on line 2
+[15-Feb-2018 02:11:58 UTC] PHP Stack trace:
+[15-Feb-2018 02:11:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:0
+[15-Feb-2018 02:11:58 UTC] PHP   2. include() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:3
+[15-Feb-2018 02:11:58 UTC] PHP Warning:  include(): Failed opening '777/index.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/inc/functions.php on line 2
+[15-Feb-2018 02:11:58 UTC] PHP Stack trace:
+[15-Feb-2018 02:11:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:0
+[15-Feb-2018 02:11:58 UTC] PHP   2. include() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:3
+[15-Feb-2018 02:11:58 UTC] PHP Warning:  include(777/index.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/inc/functions.php on line 2
+[15-Feb-2018 02:11:58 UTC] PHP Stack trace:
+[15-Feb-2018 02:11:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:0
+[15-Feb-2018 02:11:58 UTC] PHP   2. include() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:3
+[15-Feb-2018 02:11:58 UTC] PHP Warning:  include(): Failed opening '777/index.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/inc/functions.php on line 2
+[15-Feb-2018 02:11:58 UTC] PHP Stack trace:
+[15-Feb-2018 02:11:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:0
+[15-Feb-2018 02:11:58 UTC] PHP   2. include() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:3
+[15-Feb-2018 02:11:59 UTC] PHP Warning:  include(777/index.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/inc/functions.php on line 2
+[15-Feb-2018 02:11:59 UTC] PHP Stack trace:
+[15-Feb-2018 02:11:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:0
+[15-Feb-2018 02:11:59 UTC] PHP   2. include() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:3
+[15-Feb-2018 02:11:59 UTC] PHP Warning:  include(): Failed opening '777/index.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/inc/functions.php on line 2
+[15-Feb-2018 02:11:59 UTC] PHP Stack trace:
+[15-Feb-2018 02:11:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:0
+[15-Feb-2018 02:11:59 UTC] PHP   2. include() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:3
+[15-Feb-2018 02:11:59 UTC] PHP Warning:  include(777/index.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/inc/functions.php on line 2
+[15-Feb-2018 02:11:59 UTC] PHP Stack trace:
+[15-Feb-2018 02:11:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:0
+[15-Feb-2018 02:11:59 UTC] PHP   2. include() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:3
+[15-Feb-2018 02:11:59 UTC] PHP Warning:  include(): Failed opening '777/index.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/inc/functions.php on line 2
+[15-Feb-2018 02:11:59 UTC] PHP Stack trace:
+[15-Feb-2018 02:11:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:0
+[15-Feb-2018 02:11:59 UTC] PHP   2. include() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:3
+[15-Feb-2018 02:12:00 UTC] PHP Warning:  include(777/index.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/inc/functions.php on line 2
+[15-Feb-2018 02:12:00 UTC] PHP Stack trace:
+[15-Feb-2018 02:12:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:0
+[15-Feb-2018 02:12:00 UTC] PHP   2. include() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:3
+[15-Feb-2018 02:12:00 UTC] PHP Warning:  include(): Failed opening '777/index.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/inc/functions.php on line 2
+[15-Feb-2018 02:12:00 UTC] PHP Stack trace:
+[15-Feb-2018 02:12:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:0
+[15-Feb-2018 02:12:00 UTC] PHP   2. include() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:3
+[15-Feb-2018 02:12:00 UTC] PHP Warning:  include(777/index.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/inc/functions.php on line 2
+[15-Feb-2018 02:12:00 UTC] PHP Stack trace:
+[15-Feb-2018 02:12:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:0
+[15-Feb-2018 02:12:00 UTC] PHP   2. include() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:3
+[15-Feb-2018 02:12:00 UTC] PHP Warning:  include(): Failed opening '777/index.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/inc/functions.php on line 2
+[15-Feb-2018 02:12:00 UTC] PHP Stack trace:
+[15-Feb-2018 02:12:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:0
+[15-Feb-2018 02:12:00 UTC] PHP   2. include() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:3
+[15-Feb-2018 02:12:01 UTC] PHP Warning:  include(777/index.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/inc/functions.php on line 2
+[15-Feb-2018 02:12:01 UTC] PHP Stack trace:
+[15-Feb-2018 02:12:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:0
+[15-Feb-2018 02:12:01 UTC] PHP   2. include() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:3
+[15-Feb-2018 02:12:01 UTC] PHP Warning:  include(): Failed opening '777/index.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/inc/functions.php on line 2
+[15-Feb-2018 02:12:01 UTC] PHP Stack trace:
+[15-Feb-2018 02:12:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:0
+[15-Feb-2018 02:12:01 UTC] PHP   2. include() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:3
+[15-Feb-2018 02:12:01 UTC] PHP Warning:  include(777/index.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/inc/functions.php on line 2
+[15-Feb-2018 02:12:01 UTC] PHP Stack trace:
+[15-Feb-2018 02:12:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:0
+[15-Feb-2018 02:12:01 UTC] PHP   2. include() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:3
+[15-Feb-2018 02:12:01 UTC] PHP Warning:  include(): Failed opening '777/index.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/inc/functions.php on line 2
+[15-Feb-2018 02:12:01 UTC] PHP Stack trace:
+[15-Feb-2018 02:12:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:0
+[15-Feb-2018 02:12:01 UTC] PHP   2. include() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:3
+[15-Feb-2018 02:12:01 UTC] PHP Warning:  include(777/index.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/inc/functions.php on line 2
+[15-Feb-2018 02:12:01 UTC] PHP Stack trace:
+[15-Feb-2018 02:12:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:0
+[15-Feb-2018 02:12:01 UTC] PHP   2. include() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:3
+[15-Feb-2018 02:12:01 UTC] PHP Warning:  include(): Failed opening '777/index.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/inc/functions.php on line 2
+[15-Feb-2018 02:12:01 UTC] PHP Stack trace:
+[15-Feb-2018 02:12:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:0
+[15-Feb-2018 02:12:01 UTC] PHP   2. include() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:3
+[15-Feb-2018 02:12:02 UTC] PHP Warning:  include(777/index.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/inc/functions.php on line 2
+[15-Feb-2018 02:12:02 UTC] PHP Stack trace:
+[15-Feb-2018 02:12:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:0
+[15-Feb-2018 02:12:02 UTC] PHP   2. include() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:3
+[15-Feb-2018 02:12:02 UTC] PHP Warning:  include(): Failed opening '777/index.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/inc/functions.php on line 2
+[15-Feb-2018 02:12:02 UTC] PHP Stack trace:
+[15-Feb-2018 02:12:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:0
+[15-Feb-2018 02:12:02 UTC] PHP   2. include() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:3
+[15-Feb-2018 02:12:03 UTC] PHP Warning:  include(777/index.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/inc/functions.php on line 2
+[15-Feb-2018 02:12:03 UTC] PHP Stack trace:
+[15-Feb-2018 02:12:03 UTC] PHP   1. {main}() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:0
+[15-Feb-2018 02:12:03 UTC] PHP   2. include() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:3
+[15-Feb-2018 02:12:03 UTC] PHP Warning:  include(): Failed opening '777/index.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/inc/functions.php on line 2
+[15-Feb-2018 02:12:03 UTC] PHP Stack trace:
+[15-Feb-2018 02:12:03 UTC] PHP   1. {main}() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:0
+[15-Feb-2018 02:12:03 UTC] PHP   2. include() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:3
+[15-Feb-2018 02:12:03 UTC] PHP Warning:  include(777/index.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/inc/functions.php on line 2
+[15-Feb-2018 02:12:03 UTC] PHP Stack trace:
+[15-Feb-2018 02:12:03 UTC] PHP   1. {main}() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:0
+[15-Feb-2018 02:12:03 UTC] PHP   2. include() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:3
+[15-Feb-2018 02:12:03 UTC] PHP Warning:  include(): Failed opening '777/index.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/inc/functions.php on line 2
+[15-Feb-2018 02:12:03 UTC] PHP Stack trace:
+[15-Feb-2018 02:12:03 UTC] PHP   1. {main}() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:0
+[15-Feb-2018 02:12:03 UTC] PHP   2. include() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:3
+[15-Feb-2018 02:12:04 UTC] PHP Warning:  include(777/index.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/inc/functions.php on line 2
+[15-Feb-2018 02:12:04 UTC] PHP Stack trace:
+[15-Feb-2018 02:12:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:0
+[15-Feb-2018 02:12:04 UTC] PHP   2. include() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:3
+[15-Feb-2018 02:12:04 UTC] PHP Warning:  include(): Failed opening '777/index.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/inc/functions.php on line 2
+[15-Feb-2018 02:12:04 UTC] PHP Stack trace:
+[15-Feb-2018 02:12:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:0
+[15-Feb-2018 02:12:04 UTC] PHP   2. include() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:3
+[15-Feb-2018 02:12:05 UTC] PHP Warning:  include(777/index.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/inc/functions.php on line 2
+[15-Feb-2018 02:12:05 UTC] PHP Stack trace:
+[15-Feb-2018 02:12:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:0
+[15-Feb-2018 02:12:05 UTC] PHP   2. include() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:3
+[15-Feb-2018 02:12:05 UTC] PHP Warning:  include(): Failed opening '777/index.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/inc/functions.php on line 2
+[15-Feb-2018 02:12:05 UTC] PHP Stack trace:
+[15-Feb-2018 02:12:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:0
+[15-Feb-2018 02:12:05 UTC] PHP   2. include() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:3
+[15-Feb-2018 02:12:06 UTC] PHP Warning:  include(777/index.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/inc/functions.php on line 2
+[15-Feb-2018 02:12:06 UTC] PHP Stack trace:
+[15-Feb-2018 02:12:06 UTC] PHP   1. {main}() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:0
+[15-Feb-2018 02:12:06 UTC] PHP   2. include() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:3
+[15-Feb-2018 02:12:06 UTC] PHP Warning:  include(): Failed opening '777/index.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/inc/functions.php on line 2
+[15-Feb-2018 02:12:06 UTC] PHP Stack trace:
+[15-Feb-2018 02:12:06 UTC] PHP   1. {main}() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:0
+[15-Feb-2018 02:12:06 UTC] PHP   2. include() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:3
+[15-Feb-2018 02:12:14 UTC] PHP Warning:  include(777/index.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/inc/functions.php on line 2
+[15-Feb-2018 02:12:14 UTC] PHP Stack trace:
+[15-Feb-2018 02:12:14 UTC] PHP   1. {main}() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:0
+[15-Feb-2018 02:12:14 UTC] PHP   2. include() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:3
+[15-Feb-2018 02:12:14 UTC] PHP Warning:  include(): Failed opening '777/index.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/inc/functions.php on line 2
+[15-Feb-2018 02:12:14 UTC] PHP Stack trace:
+[15-Feb-2018 02:12:14 UTC] PHP   1. {main}() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:0
+[15-Feb-2018 02:12:14 UTC] PHP   2. include() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:3
+[15-Feb-2018 02:12:15 UTC] PHP Warning:  include(777/index.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/inc/functions.php on line 2
+[15-Feb-2018 02:12:15 UTC] PHP Stack trace:
+[15-Feb-2018 02:12:15 UTC] PHP   1. {main}() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:0
+[15-Feb-2018 02:12:15 UTC] PHP   2. include() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:3
+[15-Feb-2018 02:12:15 UTC] PHP Warning:  include(): Failed opening '777/index.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/inc/functions.php on line 2
+[15-Feb-2018 02:12:15 UTC] PHP Stack trace:
+[15-Feb-2018 02:12:15 UTC] PHP   1. {main}() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:0
+[15-Feb-2018 02:12:15 UTC] PHP   2. include() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:3
+[15-Feb-2018 02:12:16 UTC] PHP Warning:  include(777/index.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/inc/functions.php on line 2
+[15-Feb-2018 02:12:16 UTC] PHP Stack trace:
+[15-Feb-2018 02:12:16 UTC] PHP   1. {main}() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:0
+[15-Feb-2018 02:12:16 UTC] PHP   2. include() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:3
+[15-Feb-2018 02:12:16 UTC] PHP Warning:  include(): Failed opening '777/index.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/inc/functions.php on line 2
+[15-Feb-2018 02:12:16 UTC] PHP Stack trace:
+[15-Feb-2018 02:12:16 UTC] PHP   1. {main}() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:0
+[15-Feb-2018 02:12:16 UTC] PHP   2. include() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:3
+[15-Feb-2018 02:12:16 UTC] PHP Warning:  include(777/index.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/inc/functions.php on line 2
+[15-Feb-2018 02:12:16 UTC] PHP Stack trace:
+[15-Feb-2018 02:12:16 UTC] PHP   1. {main}() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:0
+[15-Feb-2018 02:12:16 UTC] PHP   2. include() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:3
+[15-Feb-2018 02:12:16 UTC] PHP Warning:  include(): Failed opening '777/index.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/inc/functions.php on line 2
+[15-Feb-2018 02:12:16 UTC] PHP Stack trace:
+[15-Feb-2018 02:12:16 UTC] PHP   1. {main}() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:0
+[15-Feb-2018 02:12:16 UTC] PHP   2. include() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:3
+[15-Feb-2018 02:12:17 UTC] PHP Warning:  include(777/index.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/inc/functions.php on line 2
+[15-Feb-2018 02:12:17 UTC] PHP Stack trace:
+[15-Feb-2018 02:12:17 UTC] PHP   1. {main}() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:0
+[15-Feb-2018 02:12:17 UTC] PHP   2. include() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:3
+[15-Feb-2018 02:12:17 UTC] PHP Warning:  include(): Failed opening '777/index.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/inc/functions.php on line 2
+[15-Feb-2018 02:12:17 UTC] PHP Stack trace:
+[15-Feb-2018 02:12:17 UTC] PHP   1. {main}() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:0
+[15-Feb-2018 02:12:17 UTC] PHP   2. include() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:3
+[15-Feb-2018 02:12:18 UTC] PHP Warning:  include(777/index.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/inc/functions.php on line 2
+[15-Feb-2018 02:12:18 UTC] PHP Stack trace:
+[15-Feb-2018 02:12:18 UTC] PHP   1. {main}() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:0
+[15-Feb-2018 02:12:18 UTC] PHP   2. include() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:3
+[15-Feb-2018 02:12:18 UTC] PHP Warning:  include(): Failed opening '777/index.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/inc/functions.php on line 2
+[15-Feb-2018 02:12:18 UTC] PHP Stack trace:
+[15-Feb-2018 02:12:18 UTC] PHP   1. {main}() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:0
+[15-Feb-2018 02:12:18 UTC] PHP   2. include() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:3
+[15-Feb-2018 02:12:18 UTC] PHP Warning:  include(777/index.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/inc/functions.php on line 2
+[15-Feb-2018 02:12:18 UTC] PHP Stack trace:
+[15-Feb-2018 02:12:18 UTC] PHP   1. {main}() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:0
+[15-Feb-2018 02:12:18 UTC] PHP   2. include() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:3
+[15-Feb-2018 02:12:18 UTC] PHP Warning:  include(): Failed opening '777/index.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/inc/functions.php on line 2
+[15-Feb-2018 02:12:18 UTC] PHP Stack trace:
+[15-Feb-2018 02:12:18 UTC] PHP   1. {main}() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:0
+[15-Feb-2018 02:12:18 UTC] PHP   2. include() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:3
+[15-Feb-2018 02:12:19 UTC] PHP Warning:  include(777/index.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/inc/functions.php on line 2
+[15-Feb-2018 02:12:19 UTC] PHP Stack trace:
+[15-Feb-2018 02:12:19 UTC] PHP   1. {main}() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:0
+[15-Feb-2018 02:12:19 UTC] PHP   2. include() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:3
+[15-Feb-2018 02:12:19 UTC] PHP Warning:  include(): Failed opening '777/index.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/inc/functions.php on line 2
+[15-Feb-2018 02:12:19 UTC] PHP Stack trace:
+[15-Feb-2018 02:12:19 UTC] PHP   1. {main}() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:0
+[15-Feb-2018 02:12:19 UTC] PHP   2. include() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:3
+[15-Feb-2018 02:12:19 UTC] PHP Warning:  include(777/index.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/inc/functions.php on line 2
+[15-Feb-2018 02:12:19 UTC] PHP Stack trace:
+[15-Feb-2018 02:12:19 UTC] PHP   1. {main}() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:0
+[15-Feb-2018 02:12:19 UTC] PHP   2. include() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:3
+[15-Feb-2018 02:12:19 UTC] PHP Warning:  include(): Failed opening '777/index.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/inc/functions.php on line 2
+[15-Feb-2018 02:12:19 UTC] PHP Stack trace:
+[15-Feb-2018 02:12:19 UTC] PHP   1. {main}() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:0
+[15-Feb-2018 02:12:19 UTC] PHP   2. include() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:3
+[15-Feb-2018 02:12:20 UTC] PHP Warning:  include(777/index.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/inc/functions.php on line 2
+[15-Feb-2018 02:12:20 UTC] PHP Stack trace:
+[15-Feb-2018 02:12:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:0
+[15-Feb-2018 02:12:20 UTC] PHP   2. include() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:3
+[15-Feb-2018 02:12:20 UTC] PHP Warning:  include(): Failed opening '777/index.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/inc/functions.php on line 2
+[15-Feb-2018 02:12:20 UTC] PHP Stack trace:
+[15-Feb-2018 02:12:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:0
+[15-Feb-2018 02:12:20 UTC] PHP   2. include() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:3
+[15-Feb-2018 02:12:20 UTC] PHP Warning:  include(777/index.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/inc/functions.php on line 2
+[15-Feb-2018 02:12:20 UTC] PHP Stack trace:
+[15-Feb-2018 02:12:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:0
+[15-Feb-2018 02:12:20 UTC] PHP   2. include() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:3
+[15-Feb-2018 02:12:20 UTC] PHP Warning:  include(): Failed opening '777/index.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/inc/functions.php on line 2
+[15-Feb-2018 02:12:20 UTC] PHP Stack trace:
+[15-Feb-2018 02:12:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:0
+[15-Feb-2018 02:12:20 UTC] PHP   2. include() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:3
+[15-Feb-2018 02:12:21 UTC] PHP Warning:  include(777/index.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/inc/functions.php on line 2
+[15-Feb-2018 02:12:21 UTC] PHP Stack trace:
+[15-Feb-2018 02:12:21 UTC] PHP   1. {main}() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:0
+[15-Feb-2018 02:12:21 UTC] PHP   2. include() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:3
+[15-Feb-2018 02:12:21 UTC] PHP Warning:  include(): Failed opening '777/index.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/inc/functions.php on line 2
+[15-Feb-2018 02:12:21 UTC] PHP Stack trace:
+[15-Feb-2018 02:12:21 UTC] PHP   1. {main}() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:0
+[15-Feb-2018 02:12:21 UTC] PHP   2. include() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:3
+[15-Feb-2018 02:12:22 UTC] PHP Warning:  include(777/index.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/inc/functions.php on line 2
+[15-Feb-2018 02:12:22 UTC] PHP Stack trace:
+[15-Feb-2018 02:12:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:0
+[15-Feb-2018 02:12:22 UTC] PHP   2. include() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:3
+[15-Feb-2018 02:12:22 UTC] PHP Warning:  include(): Failed opening '777/index.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/inc/functions.php on line 2
+[15-Feb-2018 02:12:22 UTC] PHP Stack trace:
+[15-Feb-2018 02:12:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:0
+[15-Feb-2018 02:12:22 UTC] PHP   2. include() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:3
+[15-Feb-2018 02:12:22 UTC] PHP Warning:  include(777/index.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/inc/functions.php on line 2
+[15-Feb-2018 02:12:22 UTC] PHP Stack trace:
+[15-Feb-2018 02:12:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:0
+[15-Feb-2018 02:12:22 UTC] PHP   2. include() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:3
+[15-Feb-2018 02:12:22 UTC] PHP Warning:  include(): Failed opening '777/index.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/inc/functions.php on line 2
+[15-Feb-2018 02:12:22 UTC] PHP Stack trace:
+[15-Feb-2018 02:12:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:0
+[15-Feb-2018 02:12:22 UTC] PHP   2. include() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:3
+[15-Feb-2018 02:12:23 UTC] PHP Warning:  include(777/index.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/inc/functions.php on line 2
+[15-Feb-2018 02:12:23 UTC] PHP Stack trace:
+[15-Feb-2018 02:12:23 UTC] PHP   1. {main}() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:0
+[15-Feb-2018 02:12:23 UTC] PHP   2. include() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:3
+[15-Feb-2018 02:12:23 UTC] PHP Warning:  include(): Failed opening '777/index.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/inc/functions.php on line 2
+[15-Feb-2018 02:12:23 UTC] PHP Stack trace:
+[15-Feb-2018 02:12:23 UTC] PHP   1. {main}() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:0
+[15-Feb-2018 02:12:23 UTC] PHP   2. include() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:3
+[15-Feb-2018 02:12:23 UTC] PHP Warning:  include(777/index.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/inc/functions.php on line 2
+[15-Feb-2018 02:12:23 UTC] PHP Stack trace:
+[15-Feb-2018 02:12:23 UTC] PHP   1. {main}() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:0
+[15-Feb-2018 02:12:23 UTC] PHP   2. include() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:3
+[15-Feb-2018 02:12:23 UTC] PHP Warning:  include(): Failed opening '777/index.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/inc/functions.php on line 2
+[15-Feb-2018 02:12:23 UTC] PHP Stack trace:
+[15-Feb-2018 02:12:23 UTC] PHP   1. {main}() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:0
+[15-Feb-2018 02:12:23 UTC] PHP   2. include() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:3
+[15-Feb-2018 02:12:24 UTC] PHP Warning:  include(777/index.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/inc/functions.php on line 2
+[15-Feb-2018 02:12:24 UTC] PHP Stack trace:
+[15-Feb-2018 02:12:24 UTC] PHP   1. {main}() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:0
+[15-Feb-2018 02:12:24 UTC] PHP   2. include() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:3
+[15-Feb-2018 02:12:24 UTC] PHP Warning:  include(): Failed opening '777/index.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/inc/functions.php on line 2
+[15-Feb-2018 02:12:24 UTC] PHP Stack trace:
+[15-Feb-2018 02:12:24 UTC] PHP   1. {main}() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:0
+[15-Feb-2018 02:12:24 UTC] PHP   2. include() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:3
+[15-Feb-2018 02:12:24 UTC] PHP Warning:  include(777/index.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/inc/functions.php on line 2
+[15-Feb-2018 02:12:24 UTC] PHP Stack trace:
+[15-Feb-2018 02:12:24 UTC] PHP   1. {main}() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:0
+[15-Feb-2018 02:12:24 UTC] PHP   2. include() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:3
+[15-Feb-2018 02:12:24 UTC] PHP Warning:  include(): Failed opening '777/index.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/inc/functions.php on line 2
+[15-Feb-2018 02:12:24 UTC] PHP Stack trace:
+[15-Feb-2018 02:12:24 UTC] PHP   1. {main}() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:0
+[15-Feb-2018 02:12:24 UTC] PHP   2. include() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:3
+[15-Feb-2018 02:12:25 UTC] PHP Warning:  include(777/index.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/inc/functions.php on line 2
+[15-Feb-2018 02:12:25 UTC] PHP Stack trace:
+[15-Feb-2018 02:12:25 UTC] PHP   1. {main}() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:0
+[15-Feb-2018 02:12:25 UTC] PHP   2. include() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:3
+[15-Feb-2018 02:12:25 UTC] PHP Warning:  include(): Failed opening '777/index.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/inc/functions.php on line 2
+[15-Feb-2018 02:12:25 UTC] PHP Stack trace:
+[15-Feb-2018 02:12:25 UTC] PHP   1. {main}() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:0
+[15-Feb-2018 02:12:25 UTC] PHP   2. include() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:3
+[15-Feb-2018 02:12:37 UTC] PHP Fatal error:  Cannot redeclare displaySymbol() (previously declared in /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/inc/functions.php:5) in /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/inc/functions.php on line 5
+[15-Feb-2018 02:12:37 UTC] PHP Stack trace:
+[15-Feb-2018 02:12:37 UTC] PHP   1. {main}() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:0
+[15-Feb-2018 02:12:37 UTC] PHP   2. include() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:3
+[15-Feb-2018 02:12:37 UTC] PHP   3. include() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/inc/functions.php:2
+[15-Feb-2018 02:12:43 UTC] PHP Warning:  include(/index.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/inc/functions.php on line 2
+[15-Feb-2018 02:12:43 UTC] PHP Stack trace:
+[15-Feb-2018 02:12:43 UTC] PHP   1. {main}() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:0
+[15-Feb-2018 02:12:43 UTC] PHP   2. include() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:3
+[15-Feb-2018 02:12:43 UTC] PHP Warning:  include(): Failed opening '/index.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/inc/functions.php on line 2
+[15-Feb-2018 02:12:43 UTC] PHP Stack trace:
+[15-Feb-2018 02:12:43 UTC] PHP   1. {main}() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:0
+[15-Feb-2018 02:12:43 UTC] PHP   2. include() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:3
+[15-Feb-2018 02:27:46 UTC] PHP Warning:  include(/index.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/inc/functions.php on line 2
+[15-Feb-2018 02:27:46 UTC] PHP Stack trace:
+[15-Feb-2018 02:27:46 UTC] PHP   1. {main}() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:0
+[15-Feb-2018 02:27:46 UTC] PHP   2. include() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:3
+[15-Feb-2018 02:27:46 UTC] PHP Warning:  include(): Failed opening '/index.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/inc/functions.php on line 2
+[15-Feb-2018 02:27:46 UTC] PHP Stack trace:
+[15-Feb-2018 02:27:46 UTC] PHP   1. {main}() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:0
+[15-Feb-2018 02:27:46 UTC] PHP   2. include() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:3
+[15-Feb-2018 02:27:48 UTC] PHP Warning:  include(/index.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/inc/functions.php on line 2
+[15-Feb-2018 02:27:48 UTC] PHP Stack trace:
+[15-Feb-2018 02:27:48 UTC] PHP   1. {main}() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:0
+[15-Feb-2018 02:27:48 UTC] PHP   2. include() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:3
+[15-Feb-2018 02:27:48 UTC] PHP Warning:  include(): Failed opening '/index.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/inc/functions.php on line 2
+[15-Feb-2018 02:27:48 UTC] PHP Stack trace:
+[15-Feb-2018 02:27:48 UTC] PHP   1. {main}() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:0
+[15-Feb-2018 02:27:48 UTC] PHP   2. include() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:3
+[15-Feb-2018 02:27:49 UTC] PHP Warning:  include(/index.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/inc/functions.php on line 2
+[15-Feb-2018 02:27:49 UTC] PHP Stack trace:
+[15-Feb-2018 02:27:49 UTC] PHP   1. {main}() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:0
+[15-Feb-2018 02:27:49 UTC] PHP   2. include() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:3
+[15-Feb-2018 02:27:49 UTC] PHP Warning:  include(): Failed opening '/index.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/inc/functions.php on line 2
+[15-Feb-2018 02:27:49 UTC] PHP Stack trace:
+[15-Feb-2018 02:27:49 UTC] PHP   1. {main}() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:0
+[15-Feb-2018 02:27:49 UTC] PHP   2. include() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:3
+[15-Feb-2018 02:27:49 UTC] PHP Warning:  include(/index.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/inc/functions.php on line 2
+[15-Feb-2018 02:27:49 UTC] PHP Stack trace:
+[15-Feb-2018 02:27:49 UTC] PHP   1. {main}() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:0
+[15-Feb-2018 02:27:49 UTC] PHP   2. include() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:3
+[15-Feb-2018 02:27:49 UTC] PHP Warning:  include(): Failed opening '/index.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/inc/functions.php on line 2
+[15-Feb-2018 02:27:49 UTC] PHP Stack trace:
+[15-Feb-2018 02:27:49 UTC] PHP   1. {main}() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:0
+[15-Feb-2018 02:27:49 UTC] PHP   2. include() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:3
+[15-Feb-2018 02:27:50 UTC] PHP Warning:  include(/index.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/inc/functions.php on line 2
+[15-Feb-2018 02:27:50 UTC] PHP Stack trace:
+[15-Feb-2018 02:27:50 UTC] PHP   1. {main}() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:0
+[15-Feb-2018 02:27:50 UTC] PHP   2. include() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:3
+[15-Feb-2018 02:27:50 UTC] PHP Warning:  include(): Failed opening '/index.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/inc/functions.php on line 2
+[15-Feb-2018 02:27:50 UTC] PHP Stack trace:
+[15-Feb-2018 02:27:50 UTC] PHP   1. {main}() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:0
+[15-Feb-2018 02:27:50 UTC] PHP   2. include() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:3
+[15-Feb-2018 02:27:50 UTC] PHP Warning:  include(/index.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/inc/functions.php on line 2
+[15-Feb-2018 02:27:50 UTC] PHP Stack trace:
+[15-Feb-2018 02:27:50 UTC] PHP   1. {main}() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:0
+[15-Feb-2018 02:27:50 UTC] PHP   2. include() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:3
+[15-Feb-2018 02:27:50 UTC] PHP Warning:  include(): Failed opening '/index.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/inc/functions.php on line 2
+[15-Feb-2018 02:27:50 UTC] PHP Stack trace:
+[15-Feb-2018 02:27:50 UTC] PHP   1. {main}() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:0
+[15-Feb-2018 02:27:50 UTC] PHP   2. include() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:3
+[15-Feb-2018 02:27:51 UTC] PHP Warning:  include(/index.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/inc/functions.php on line 2
+[15-Feb-2018 02:27:51 UTC] PHP Stack trace:
+[15-Feb-2018 02:27:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:0
+[15-Feb-2018 02:27:51 UTC] PHP   2. include() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:3
+[15-Feb-2018 02:27:51 UTC] PHP Warning:  include(): Failed opening '/index.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/inc/functions.php on line 2
+[15-Feb-2018 02:27:51 UTC] PHP Stack trace:
+[15-Feb-2018 02:27:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:0
+[15-Feb-2018 02:27:51 UTC] PHP   2. include() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:3
+[15-Feb-2018 02:27:51 UTC] PHP Warning:  include(/index.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/inc/functions.php on line 2
+[15-Feb-2018 02:27:51 UTC] PHP Stack trace:
+[15-Feb-2018 02:27:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:0
+[15-Feb-2018 02:27:51 UTC] PHP   2. include() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:3
+[15-Feb-2018 02:27:51 UTC] PHP Warning:  include(): Failed opening '/index.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/inc/functions.php on line 2
+[15-Feb-2018 02:27:51 UTC] PHP Stack trace:
+[15-Feb-2018 02:27:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:0
+[15-Feb-2018 02:27:51 UTC] PHP   2. include() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:3
+[15-Feb-2018 02:27:51 UTC] PHP Warning:  include(/index.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/inc/functions.php on line 2
+[15-Feb-2018 02:27:51 UTC] PHP Stack trace:
+[15-Feb-2018 02:27:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:0
+[15-Feb-2018 02:27:51 UTC] PHP   2. include() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:3
+[15-Feb-2018 02:27:51 UTC] PHP Warning:  include(): Failed opening '/index.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/inc/functions.php on line 2
+[15-Feb-2018 02:27:51 UTC] PHP Stack trace:
+[15-Feb-2018 02:27:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:0
+[15-Feb-2018 02:27:51 UTC] PHP   2. include() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:3
+[15-Feb-2018 02:27:52 UTC] PHP Warning:  include(/index.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/inc/functions.php on line 2
+[15-Feb-2018 02:27:52 UTC] PHP Stack trace:
+[15-Feb-2018 02:27:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:0
+[15-Feb-2018 02:27:52 UTC] PHP   2. include() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:3
+[15-Feb-2018 02:27:52 UTC] PHP Warning:  include(): Failed opening '/index.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/inc/functions.php on line 2
+[15-Feb-2018 02:27:52 UTC] PHP Stack trace:
+[15-Feb-2018 02:27:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:0
+[15-Feb-2018 02:27:52 UTC] PHP   2. include() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:3
+[15-Feb-2018 02:27:52 UTC] PHP Warning:  include(/index.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/inc/functions.php on line 2
+[15-Feb-2018 02:27:52 UTC] PHP Stack trace:
+[15-Feb-2018 02:27:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:0
+[15-Feb-2018 02:27:52 UTC] PHP   2. include() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:3
+[15-Feb-2018 02:27:52 UTC] PHP Warning:  include(): Failed opening '/index.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/inc/functions.php on line 2
+[15-Feb-2018 02:27:52 UTC] PHP Stack trace:
+[15-Feb-2018 02:27:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:0
+[15-Feb-2018 02:27:52 UTC] PHP   2. include() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:3
+[15-Feb-2018 02:27:53 UTC] PHP Warning:  include(/index.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/inc/functions.php on line 2
+[15-Feb-2018 02:27:53 UTC] PHP Stack trace:
+[15-Feb-2018 02:27:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:0
+[15-Feb-2018 02:27:53 UTC] PHP   2. include() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:3
+[15-Feb-2018 02:27:53 UTC] PHP Warning:  include(): Failed opening '/index.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/inc/functions.php on line 2
+[15-Feb-2018 02:27:53 UTC] PHP Stack trace:
+[15-Feb-2018 02:27:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:0
+[15-Feb-2018 02:27:53 UTC] PHP   2. include() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:3
+[15-Feb-2018 02:27:53 UTC] PHP Warning:  include(/index.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/inc/functions.php on line 2
+[15-Feb-2018 02:27:53 UTC] PHP Stack trace:
+[15-Feb-2018 02:27:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:0
+[15-Feb-2018 02:27:53 UTC] PHP   2. include() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:3
+[15-Feb-2018 02:27:53 UTC] PHP Warning:  include(): Failed opening '/index.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/inc/functions.php on line 2
+[15-Feb-2018 02:27:53 UTC] PHP Stack trace:
+[15-Feb-2018 02:27:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:0
+[15-Feb-2018 02:27:53 UTC] PHP   2. include() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:3
+[15-Feb-2018 02:27:53 UTC] PHP Warning:  include(/index.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/inc/functions.php on line 2
+[15-Feb-2018 02:27:53 UTC] PHP Stack trace:
+[15-Feb-2018 02:27:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:0
+[15-Feb-2018 02:27:53 UTC] PHP   2. include() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:3
+[15-Feb-2018 02:27:53 UTC] PHP Warning:  include(): Failed opening '/index.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/inc/functions.php on line 2
+[15-Feb-2018 02:27:53 UTC] PHP Stack trace:
+[15-Feb-2018 02:27:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:0
+[15-Feb-2018 02:27:53 UTC] PHP   2. include() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:3
+[15-Feb-2018 02:27:54 UTC] PHP Warning:  include(/index.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/inc/functions.php on line 2
+[15-Feb-2018 02:27:54 UTC] PHP Stack trace:
+[15-Feb-2018 02:27:54 UTC] PHP   1. {main}() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:0
+[15-Feb-2018 02:27:54 UTC] PHP   2. include() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:3
+[15-Feb-2018 02:27:54 UTC] PHP Warning:  include(): Failed opening '/index.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/inc/functions.php on line 2
+[15-Feb-2018 02:27:54 UTC] PHP Stack trace:
+[15-Feb-2018 02:27:54 UTC] PHP   1. {main}() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:0
+[15-Feb-2018 02:27:54 UTC] PHP   2. include() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:3
+[15-Feb-2018 02:27:54 UTC] PHP Warning:  include(/index.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/inc/functions.php on line 2
+[15-Feb-2018 02:27:54 UTC] PHP Stack trace:
+[15-Feb-2018 02:27:54 UTC] PHP   1. {main}() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:0
+[15-Feb-2018 02:27:54 UTC] PHP   2. include() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:3
+[15-Feb-2018 02:27:54 UTC] PHP Warning:  include(): Failed opening '/index.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/inc/functions.php on line 2
+[15-Feb-2018 02:27:54 UTC] PHP Stack trace:
+[15-Feb-2018 02:27:54 UTC] PHP   1. {main}() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:0
+[15-Feb-2018 02:27:54 UTC] PHP   2. include() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:3
+[15-Feb-2018 02:27:54 UTC] PHP Warning:  include(/index.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/inc/functions.php on line 2
+[15-Feb-2018 02:27:54 UTC] PHP Stack trace:
+[15-Feb-2018 02:27:54 UTC] PHP   1. {main}() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:0
+[15-Feb-2018 02:27:54 UTC] PHP   2. include() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:3
+[15-Feb-2018 02:27:54 UTC] PHP Warning:  include(): Failed opening '/index.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/inc/functions.php on line 2
+[15-Feb-2018 02:27:54 UTC] PHP Stack trace:
+[15-Feb-2018 02:27:54 UTC] PHP   1. {main}() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:0
+[15-Feb-2018 02:27:54 UTC] PHP   2. include() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:3
+[15-Feb-2018 02:27:54 UTC] PHP Warning:  include(/index.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/inc/functions.php on line 2
+[15-Feb-2018 02:27:54 UTC] PHP Stack trace:
+[15-Feb-2018 02:27:54 UTC] PHP   1. {main}() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:0
+[15-Feb-2018 02:27:54 UTC] PHP   2. include() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:3
+[15-Feb-2018 02:27:54 UTC] PHP Warning:  include(): Failed opening '/index.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/inc/functions.php on line 2
+[15-Feb-2018 02:27:54 UTC] PHP Stack trace:
+[15-Feb-2018 02:27:54 UTC] PHP   1. {main}() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:0
+[15-Feb-2018 02:27:54 UTC] PHP   2. include() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:3
+[15-Feb-2018 02:27:55 UTC] PHP Warning:  include(/index.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/inc/functions.php on line 2
+[15-Feb-2018 02:27:55 UTC] PHP Stack trace:
+[15-Feb-2018 02:27:55 UTC] PHP   1. {main}() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:0
+[15-Feb-2018 02:27:55 UTC] PHP   2. include() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:3
+[15-Feb-2018 02:27:55 UTC] PHP Warning:  include(): Failed opening '/index.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/inc/functions.php on line 2
+[15-Feb-2018 02:27:55 UTC] PHP Stack trace:
+[15-Feb-2018 02:27:55 UTC] PHP   1. {main}() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:0
+[15-Feb-2018 02:27:55 UTC] PHP   2. include() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:3
+[15-Feb-2018 02:27:55 UTC] PHP Warning:  include(/index.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/inc/functions.php on line 2
+[15-Feb-2018 02:27:55 UTC] PHP Stack trace:
+[15-Feb-2018 02:27:55 UTC] PHP   1. {main}() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:0
+[15-Feb-2018 02:27:55 UTC] PHP   2. include() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:3
+[15-Feb-2018 02:27:55 UTC] PHP Warning:  include(): Failed opening '/index.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/inc/functions.php on line 2
+[15-Feb-2018 02:27:55 UTC] PHP Stack trace:
+[15-Feb-2018 02:27:55 UTC] PHP   1. {main}() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:0
+[15-Feb-2018 02:27:55 UTC] PHP   2. include() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:3
+[15-Feb-2018 02:27:55 UTC] PHP Warning:  include(/index.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/inc/functions.php on line 2
+[15-Feb-2018 02:27:55 UTC] PHP Stack trace:
+[15-Feb-2018 02:27:55 UTC] PHP   1. {main}() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:0
+[15-Feb-2018 02:27:55 UTC] PHP   2. include() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:3
+[15-Feb-2018 02:27:55 UTC] PHP Warning:  include(): Failed opening '/index.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/inc/functions.php on line 2
+[15-Feb-2018 02:27:55 UTC] PHP Stack trace:
+[15-Feb-2018 02:27:55 UTC] PHP   1. {main}() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:0
+[15-Feb-2018 02:27:55 UTC] PHP   2. include() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:3
+[15-Feb-2018 02:27:55 UTC] PHP Warning:  include(/index.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/inc/functions.php on line 2
+[15-Feb-2018 02:27:55 UTC] PHP Stack trace:
+[15-Feb-2018 02:27:55 UTC] PHP   1. {main}() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:0
+[15-Feb-2018 02:27:55 UTC] PHP   2. include() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:3
+[15-Feb-2018 02:27:55 UTC] PHP Warning:  include(): Failed opening '/index.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/inc/functions.php on line 2
+[15-Feb-2018 02:27:55 UTC] PHP Stack trace:
+[15-Feb-2018 02:27:55 UTC] PHP   1. {main}() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:0
+[15-Feb-2018 02:27:55 UTC] PHP   2. include() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:3
+[15-Feb-2018 02:27:56 UTC] PHP Warning:  include(/index.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/inc/functions.php on line 2
+[15-Feb-2018 02:27:56 UTC] PHP Stack trace:
+[15-Feb-2018 02:27:56 UTC] PHP   1. {main}() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:0
+[15-Feb-2018 02:27:56 UTC] PHP   2. include() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:3
+[15-Feb-2018 02:27:56 UTC] PHP Warning:  include(): Failed opening '/index.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/inc/functions.php on line 2
+[15-Feb-2018 02:27:56 UTC] PHP Stack trace:
+[15-Feb-2018 02:27:56 UTC] PHP   1. {main}() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:0
+[15-Feb-2018 02:27:56 UTC] PHP   2. include() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:3
+[15-Feb-2018 02:27:56 UTC] PHP Warning:  include(/index.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/inc/functions.php on line 2
+[15-Feb-2018 02:27:56 UTC] PHP Stack trace:
+[15-Feb-2018 02:27:56 UTC] PHP   1. {main}() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:0
+[15-Feb-2018 02:27:56 UTC] PHP   2. include() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:3
+[15-Feb-2018 02:27:56 UTC] PHP Warning:  include(): Failed opening '/index.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/inc/functions.php on line 2
+[15-Feb-2018 02:27:56 UTC] PHP Stack trace:
+[15-Feb-2018 02:27:56 UTC] PHP   1. {main}() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:0
+[15-Feb-2018 02:27:56 UTC] PHP   2. include() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:3
+[15-Feb-2018 02:27:56 UTC] PHP Warning:  include(/index.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/inc/functions.php on line 2
+[15-Feb-2018 02:27:56 UTC] PHP Stack trace:
+[15-Feb-2018 02:27:56 UTC] PHP   1. {main}() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:0
+[15-Feb-2018 02:27:56 UTC] PHP   2. include() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:3
+[15-Feb-2018 02:27:56 UTC] PHP Warning:  include(): Failed opening '/index.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/inc/functions.php on line 2
+[15-Feb-2018 02:27:56 UTC] PHP Stack trace:
+[15-Feb-2018 02:27:56 UTC] PHP   1. {main}() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:0
+[15-Feb-2018 02:27:56 UTC] PHP   2. include() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:3
+[15-Feb-2018 02:27:56 UTC] PHP Warning:  include(/index.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/inc/functions.php on line 2
+[15-Feb-2018 02:27:56 UTC] PHP Stack trace:
+[15-Feb-2018 02:27:56 UTC] PHP   1. {main}() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:0
+[15-Feb-2018 02:27:56 UTC] PHP   2. include() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:3
+[15-Feb-2018 02:27:56 UTC] PHP Warning:  include(): Failed opening '/index.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/inc/functions.php on line 2
+[15-Feb-2018 02:27:56 UTC] PHP Stack trace:
+[15-Feb-2018 02:27:56 UTC] PHP   1. {main}() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:0
+[15-Feb-2018 02:27:56 UTC] PHP   2. include() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:3
+[15-Feb-2018 02:27:57 UTC] PHP Warning:  include(/index.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/inc/functions.php on line 2
+[15-Feb-2018 02:27:57 UTC] PHP Stack trace:
+[15-Feb-2018 02:27:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:0
+[15-Feb-2018 02:27:57 UTC] PHP   2. include() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:3
+[15-Feb-2018 02:27:57 UTC] PHP Warning:  include(): Failed opening '/index.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/inc/functions.php on line 2
+[15-Feb-2018 02:27:57 UTC] PHP Stack trace:
+[15-Feb-2018 02:27:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:0
+[15-Feb-2018 02:27:57 UTC] PHP   2. include() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:3
+[15-Feb-2018 02:27:57 UTC] PHP Warning:  include(/index.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/inc/functions.php on line 2
+[15-Feb-2018 02:27:57 UTC] PHP Stack trace:
+[15-Feb-2018 02:27:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:0
+[15-Feb-2018 02:27:57 UTC] PHP   2. include() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:3
+[15-Feb-2018 02:27:57 UTC] PHP Warning:  include(): Failed opening '/index.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/inc/functions.php on line 2
+[15-Feb-2018 02:27:57 UTC] PHP Stack trace:
+[15-Feb-2018 02:27:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:0
+[15-Feb-2018 02:27:57 UTC] PHP   2. include() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:3
+[15-Feb-2018 02:27:58 UTC] PHP Warning:  include(/index.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/inc/functions.php on line 2
+[15-Feb-2018 02:27:58 UTC] PHP Stack trace:
+[15-Feb-2018 02:27:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:0
+[15-Feb-2018 02:27:58 UTC] PHP   2. include() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:3
+[15-Feb-2018 02:27:58 UTC] PHP Warning:  include(): Failed opening '/index.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/inc/functions.php on line 2
+[15-Feb-2018 02:27:58 UTC] PHP Stack trace:
+[15-Feb-2018 02:27:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:0
+[15-Feb-2018 02:27:58 UTC] PHP   2. include() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:3
+[15-Feb-2018 02:27:58 UTC] PHP Warning:  include(/index.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/inc/functions.php on line 2
+[15-Feb-2018 02:27:58 UTC] PHP Stack trace:
+[15-Feb-2018 02:27:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:0
+[15-Feb-2018 02:27:58 UTC] PHP   2. include() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:3
+[15-Feb-2018 02:27:58 UTC] PHP Warning:  include(): Failed opening '/index.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/inc/functions.php on line 2
+[15-Feb-2018 02:27:58 UTC] PHP Stack trace:
+[15-Feb-2018 02:27:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:0
+[15-Feb-2018 02:27:58 UTC] PHP   2. include() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:3
+[15-Feb-2018 02:27:59 UTC] PHP Warning:  include(/index.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/inc/functions.php on line 2
+[15-Feb-2018 02:27:59 UTC] PHP Stack trace:
+[15-Feb-2018 02:27:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:0
+[15-Feb-2018 02:27:59 UTC] PHP   2. include() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:3
+[15-Feb-2018 02:27:59 UTC] PHP Warning:  include(): Failed opening '/index.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/inc/functions.php on line 2
+[15-Feb-2018 02:27:59 UTC] PHP Stack trace:
+[15-Feb-2018 02:27:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:0
+[15-Feb-2018 02:27:59 UTC] PHP   2. include() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:3
+[15-Feb-2018 02:27:59 UTC] PHP Warning:  include(/index.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/inc/functions.php on line 2
+[15-Feb-2018 02:27:59 UTC] PHP Stack trace:
+[15-Feb-2018 02:27:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:0
+[15-Feb-2018 02:27:59 UTC] PHP   2. include() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:3
+[15-Feb-2018 02:27:59 UTC] PHP Warning:  include(): Failed opening '/index.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/inc/functions.php on line 2
+[15-Feb-2018 02:27:59 UTC] PHP Stack trace:
+[15-Feb-2018 02:27:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:0
+[15-Feb-2018 02:27:59 UTC] PHP   2. include() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:3
+[15-Feb-2018 02:29:40 UTC] PHP Warning:  include(/index.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/inc/functions.php on line 2
+[15-Feb-2018 02:29:40 UTC] PHP Stack trace:
+[15-Feb-2018 02:29:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:0
+[15-Feb-2018 02:29:40 UTC] PHP   2. include() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:3
+[15-Feb-2018 02:29:40 UTC] PHP Warning:  include(): Failed opening '/index.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/inc/functions.php on line 2
+[15-Feb-2018 02:29:40 UTC] PHP Stack trace:
+[15-Feb-2018 02:29:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:0
+[15-Feb-2018 02:29:40 UTC] PHP   2. include() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:3
+[15-Feb-2018 02:29:57 UTC] PHP Warning:  include(/index.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/inc/functions.php on line 2
+[15-Feb-2018 02:29:57 UTC] PHP Stack trace:
+[15-Feb-2018 02:29:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:0
+[15-Feb-2018 02:29:57 UTC] PHP   2. include() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:3
+[15-Feb-2018 02:29:57 UTC] PHP Warning:  include(): Failed opening '/index.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/inc/functions.php on line 2
+[15-Feb-2018 02:29:57 UTC] PHP Stack trace:
+[15-Feb-2018 02:29:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:0
+[15-Feb-2018 02:29:57 UTC] PHP   2. include() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:3
+[15-Feb-2018 02:30:00 UTC] PHP Warning:  include(/index.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/inc/functions.php on line 2
+[15-Feb-2018 02:30:00 UTC] PHP Stack trace:
+[15-Feb-2018 02:30:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:0
+[15-Feb-2018 02:30:00 UTC] PHP   2. include() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:3
+[15-Feb-2018 02:30:00 UTC] PHP Warning:  include(): Failed opening '/index.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/inc/functions.php on line 2
+[15-Feb-2018 02:30:00 UTC] PHP Stack trace:
+[15-Feb-2018 02:30:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:0
+[15-Feb-2018 02:30:00 UTC] PHP   2. include() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:3
+[15-Feb-2018 02:30:01 UTC] PHP Warning:  include(/index.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/inc/functions.php on line 2
+[15-Feb-2018 02:30:01 UTC] PHP Stack trace:
+[15-Feb-2018 02:30:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:0
+[15-Feb-2018 02:30:01 UTC] PHP   2. include() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:3
+[15-Feb-2018 02:30:01 UTC] PHP Warning:  include(): Failed opening '/index.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/inc/functions.php on line 2
+[15-Feb-2018 02:30:01 UTC] PHP Stack trace:
+[15-Feb-2018 02:30:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:0
+[15-Feb-2018 02:30:01 UTC] PHP   2. include() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:3
+[15-Feb-2018 02:30:02 UTC] PHP Warning:  include(/index.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/inc/functions.php on line 2
+[15-Feb-2018 02:30:02 UTC] PHP Stack trace:
+[15-Feb-2018 02:30:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:0
+[15-Feb-2018 02:30:02 UTC] PHP   2. include() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:3
+[15-Feb-2018 02:30:02 UTC] PHP Warning:  include(): Failed opening '/index.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/inc/functions.php on line 2
+[15-Feb-2018 02:30:02 UTC] PHP Stack trace:
+[15-Feb-2018 02:30:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:0
+[15-Feb-2018 02:30:02 UTC] PHP   2. include() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:3
+[15-Feb-2018 02:30:02 UTC] PHP Warning:  include(/index.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/inc/functions.php on line 2
+[15-Feb-2018 02:30:02 UTC] PHP Stack trace:
+[15-Feb-2018 02:30:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:0
+[15-Feb-2018 02:30:02 UTC] PHP   2. include() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:3
+[15-Feb-2018 02:30:02 UTC] PHP Warning:  include(): Failed opening '/index.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/inc/functions.php on line 2
+[15-Feb-2018 02:30:02 UTC] PHP Stack trace:
+[15-Feb-2018 02:30:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:0
+[15-Feb-2018 02:30:02 UTC] PHP   2. include() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:3
+[15-Feb-2018 02:30:03 UTC] PHP Warning:  include(/index.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/inc/functions.php on line 2
+[15-Feb-2018 02:30:03 UTC] PHP Stack trace:
+[15-Feb-2018 02:30:03 UTC] PHP   1. {main}() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:0
+[15-Feb-2018 02:30:03 UTC] PHP   2. include() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:3
+[15-Feb-2018 02:30:03 UTC] PHP Warning:  include(): Failed opening '/index.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/inc/functions.php on line 2
+[15-Feb-2018 02:30:03 UTC] PHP Stack trace:
+[15-Feb-2018 02:30:03 UTC] PHP   1. {main}() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:0
+[15-Feb-2018 02:30:03 UTC] PHP   2. include() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:3
+[15-Feb-2018 02:30:03 UTC] PHP Warning:  include(/index.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/inc/functions.php on line 2
+[15-Feb-2018 02:30:03 UTC] PHP Stack trace:
+[15-Feb-2018 02:30:03 UTC] PHP   1. {main}() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:0
+[15-Feb-2018 02:30:03 UTC] PHP   2. include() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:3
+[15-Feb-2018 02:30:03 UTC] PHP Warning:  include(): Failed opening '/index.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/inc/functions.php on line 2
+[15-Feb-2018 02:30:03 UTC] PHP Stack trace:
+[15-Feb-2018 02:30:03 UTC] PHP   1. {main}() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:0
+[15-Feb-2018 02:30:03 UTC] PHP   2. include() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:3
+[15-Feb-2018 02:30:04 UTC] PHP Warning:  include(/index.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/inc/functions.php on line 2
+[15-Feb-2018 02:30:04 UTC] PHP Stack trace:
+[15-Feb-2018 02:30:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:0
+[15-Feb-2018 02:30:04 UTC] PHP   2. include() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:3
+[15-Feb-2018 02:30:04 UTC] PHP Warning:  include(): Failed opening '/index.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/inc/functions.php on line 2
+[15-Feb-2018 02:30:04 UTC] PHP Stack trace:
+[15-Feb-2018 02:30:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:0
+[15-Feb-2018 02:30:04 UTC] PHP   2. include() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:3
+[15-Feb-2018 02:30:04 UTC] PHP Warning:  include(/index.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/inc/functions.php on line 2
+[15-Feb-2018 02:30:04 UTC] PHP Stack trace:
+[15-Feb-2018 02:30:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:0
+[15-Feb-2018 02:30:04 UTC] PHP   2. include() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:3
+[15-Feb-2018 02:30:04 UTC] PHP Warning:  include(): Failed opening '/index.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/inc/functions.php on line 2
+[15-Feb-2018 02:30:04 UTC] PHP Stack trace:
+[15-Feb-2018 02:30:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:0
+[15-Feb-2018 02:30:04 UTC] PHP   2. include() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:3
+[15-Feb-2018 02:30:05 UTC] PHP Warning:  include(/index.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/inc/functions.php on line 2
+[15-Feb-2018 02:30:05 UTC] PHP Stack trace:
+[15-Feb-2018 02:30:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:0
+[15-Feb-2018 02:30:05 UTC] PHP   2. include() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:3
+[15-Feb-2018 02:30:05 UTC] PHP Warning:  include(): Failed opening '/index.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/inc/functions.php on line 2
+[15-Feb-2018 02:30:05 UTC] PHP Stack trace:
+[15-Feb-2018 02:30:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:0
+[15-Feb-2018 02:30:05 UTC] PHP   2. include() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:3
+[15-Feb-2018 02:30:05 UTC] PHP Warning:  include(/index.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/inc/functions.php on line 2
+[15-Feb-2018 02:30:05 UTC] PHP Stack trace:
+[15-Feb-2018 02:30:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:0
+[15-Feb-2018 02:30:05 UTC] PHP   2. include() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:3
+[15-Feb-2018 02:30:05 UTC] PHP Warning:  include(): Failed opening '/index.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/inc/functions.php on line 2
+[15-Feb-2018 02:30:05 UTC] PHP Stack trace:
+[15-Feb-2018 02:30:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:0
+[15-Feb-2018 02:30:05 UTC] PHP   2. include() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:3
+[15-Feb-2018 02:30:06 UTC] PHP Warning:  include(/index.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/inc/functions.php on line 2
+[15-Feb-2018 02:30:06 UTC] PHP Stack trace:
+[15-Feb-2018 02:30:06 UTC] PHP   1. {main}() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:0
+[15-Feb-2018 02:30:06 UTC] PHP   2. include() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:3
+[15-Feb-2018 02:30:06 UTC] PHP Warning:  include(): Failed opening '/index.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/inc/functions.php on line 2
+[15-Feb-2018 02:30:06 UTC] PHP Stack trace:
+[15-Feb-2018 02:30:06 UTC] PHP   1. {main}() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:0
+[15-Feb-2018 02:30:06 UTC] PHP   2. include() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:3
+[15-Feb-2018 02:30:06 UTC] PHP Warning:  include(/index.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/inc/functions.php on line 2
+[15-Feb-2018 02:30:06 UTC] PHP Stack trace:
+[15-Feb-2018 02:30:06 UTC] PHP   1. {main}() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:0
+[15-Feb-2018 02:30:06 UTC] PHP   2. include() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:3
+[15-Feb-2018 02:30:06 UTC] PHP Warning:  include(): Failed opening '/index.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/inc/functions.php on line 2
+[15-Feb-2018 02:30:06 UTC] PHP Stack trace:
+[15-Feb-2018 02:30:06 UTC] PHP   1. {main}() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:0
+[15-Feb-2018 02:30:06 UTC] PHP   2. include() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:3
+[15-Feb-2018 02:30:07 UTC] PHP Warning:  include(/index.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/inc/functions.php on line 2
+[15-Feb-2018 02:30:07 UTC] PHP Stack trace:
+[15-Feb-2018 02:30:07 UTC] PHP   1. {main}() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:0
+[15-Feb-2018 02:30:07 UTC] PHP   2. include() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:3
+[15-Feb-2018 02:30:07 UTC] PHP Warning:  include(): Failed opening '/index.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/inc/functions.php on line 2
+[15-Feb-2018 02:30:07 UTC] PHP Stack trace:
+[15-Feb-2018 02:30:07 UTC] PHP   1. {main}() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:0
+[15-Feb-2018 02:30:07 UTC] PHP   2. include() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:3
+[15-Feb-2018 02:30:07 UTC] PHP Warning:  include(/index.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/inc/functions.php on line 2
+[15-Feb-2018 02:30:07 UTC] PHP Stack trace:
+[15-Feb-2018 02:30:07 UTC] PHP   1. {main}() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:0
+[15-Feb-2018 02:30:07 UTC] PHP   2. include() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:3
+[15-Feb-2018 02:30:07 UTC] PHP Warning:  include(): Failed opening '/index.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/inc/functions.php on line 2
+[15-Feb-2018 02:30:07 UTC] PHP Stack trace:
+[15-Feb-2018 02:30:07 UTC] PHP   1. {main}() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:0
+[15-Feb-2018 02:30:07 UTC] PHP   2. include() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:3
+[15-Feb-2018 02:30:08 UTC] PHP Warning:  include(/index.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/inc/functions.php on line 2
+[15-Feb-2018 02:30:08 UTC] PHP Stack trace:
+[15-Feb-2018 02:30:08 UTC] PHP   1. {main}() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:0
+[15-Feb-2018 02:30:08 UTC] PHP   2. include() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:3
+[15-Feb-2018 02:30:08 UTC] PHP Warning:  include(): Failed opening '/index.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/inc/functions.php on line 2
+[15-Feb-2018 02:30:08 UTC] PHP Stack trace:
+[15-Feb-2018 02:30:08 UTC] PHP   1. {main}() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:0
+[15-Feb-2018 02:30:08 UTC] PHP   2. include() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:3
+[15-Feb-2018 02:30:08 UTC] PHP Warning:  include(/index.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/inc/functions.php on line 2
+[15-Feb-2018 02:30:08 UTC] PHP Stack trace:
+[15-Feb-2018 02:30:08 UTC] PHP   1. {main}() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:0
+[15-Feb-2018 02:30:08 UTC] PHP   2. include() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:3
+[15-Feb-2018 02:30:08 UTC] PHP Warning:  include(): Failed opening '/index.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/inc/functions.php on line 2
+[15-Feb-2018 02:30:08 UTC] PHP Stack trace:
+[15-Feb-2018 02:30:08 UTC] PHP   1. {main}() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:0
+[15-Feb-2018 02:30:08 UTC] PHP   2. include() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:3
+[15-Feb-2018 02:30:08 UTC] PHP Warning:  include(/index.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/inc/functions.php on line 2
+[15-Feb-2018 02:30:08 UTC] PHP Stack trace:
+[15-Feb-2018 02:30:08 UTC] PHP   1. {main}() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:0
+[15-Feb-2018 02:30:08 UTC] PHP   2. include() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:3
+[15-Feb-2018 02:30:08 UTC] PHP Warning:  include(): Failed opening '/index.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/inc/functions.php on line 2
+[15-Feb-2018 02:30:08 UTC] PHP Stack trace:
+[15-Feb-2018 02:30:08 UTC] PHP   1. {main}() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:0
+[15-Feb-2018 02:30:08 UTC] PHP   2. include() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:3
+[15-Feb-2018 02:30:08 UTC] PHP Warning:  include(/index.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/inc/functions.php on line 2
+[15-Feb-2018 02:30:08 UTC] PHP Stack trace:
+[15-Feb-2018 02:30:08 UTC] PHP   1. {main}() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:0
+[15-Feb-2018 02:30:08 UTC] PHP   2. include() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:3
+[15-Feb-2018 02:30:08 UTC] PHP Warning:  include(): Failed opening '/index.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/inc/functions.php on line 2
+[15-Feb-2018 02:30:08 UTC] PHP Stack trace:
+[15-Feb-2018 02:30:08 UTC] PHP   1. {main}() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:0
+[15-Feb-2018 02:30:08 UTC] PHP   2. include() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:3
+[15-Feb-2018 02:30:09 UTC] PHP Warning:  include(/index.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/inc/functions.php on line 2
+[15-Feb-2018 02:30:09 UTC] PHP Stack trace:
+[15-Feb-2018 02:30:09 UTC] PHP   1. {main}() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:0
+[15-Feb-2018 02:30:09 UTC] PHP   2. include() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:3
+[15-Feb-2018 02:30:09 UTC] PHP Warning:  include(): Failed opening '/index.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/inc/functions.php on line 2
+[15-Feb-2018 02:30:09 UTC] PHP Stack trace:
+[15-Feb-2018 02:30:09 UTC] PHP   1. {main}() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:0
+[15-Feb-2018 02:30:09 UTC] PHP   2. include() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:3
+[15-Feb-2018 02:30:09 UTC] PHP Warning:  include(/index.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/inc/functions.php on line 2
+[15-Feb-2018 02:30:09 UTC] PHP Stack trace:
+[15-Feb-2018 02:30:09 UTC] PHP   1. {main}() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:0
+[15-Feb-2018 02:30:09 UTC] PHP   2. include() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:3
+[15-Feb-2018 02:30:09 UTC] PHP Warning:  include(): Failed opening '/index.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/inc/functions.php on line 2
+[15-Feb-2018 02:30:09 UTC] PHP Stack trace:
+[15-Feb-2018 02:30:09 UTC] PHP   1. {main}() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:0
+[15-Feb-2018 02:30:09 UTC] PHP   2. include() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:3
+[15-Feb-2018 02:30:09 UTC] PHP Warning:  include(/index.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/inc/functions.php on line 2
+[15-Feb-2018 02:30:09 UTC] PHP Stack trace:
+[15-Feb-2018 02:30:09 UTC] PHP   1. {main}() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:0
+[15-Feb-2018 02:30:09 UTC] PHP   2. include() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:3
+[15-Feb-2018 02:30:09 UTC] PHP Warning:  include(): Failed opening '/index.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/inc/functions.php on line 2
+[15-Feb-2018 02:30:09 UTC] PHP Stack trace:
+[15-Feb-2018 02:30:09 UTC] PHP   1. {main}() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:0
+[15-Feb-2018 02:30:09 UTC] PHP   2. include() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:3
+[15-Feb-2018 02:30:10 UTC] PHP Warning:  include(/index.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/inc/functions.php on line 2
+[15-Feb-2018 02:30:10 UTC] PHP Stack trace:
+[15-Feb-2018 02:30:10 UTC] PHP   1. {main}() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:0
+[15-Feb-2018 02:30:10 UTC] PHP   2. include() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:3
+[15-Feb-2018 02:30:10 UTC] PHP Warning:  include(): Failed opening '/index.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/inc/functions.php on line 2
+[15-Feb-2018 02:30:10 UTC] PHP Stack trace:
+[15-Feb-2018 02:30:10 UTC] PHP   1. {main}() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:0
+[15-Feb-2018 02:30:10 UTC] PHP   2. include() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:3
+[15-Feb-2018 02:30:10 UTC] PHP Warning:  include(/index.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/inc/functions.php on line 2
+[15-Feb-2018 02:30:10 UTC] PHP Stack trace:
+[15-Feb-2018 02:30:10 UTC] PHP   1. {main}() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:0
+[15-Feb-2018 02:30:10 UTC] PHP   2. include() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:3
+[15-Feb-2018 02:30:10 UTC] PHP Warning:  include(): Failed opening '/index.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/inc/functions.php on line 2
+[15-Feb-2018 02:30:10 UTC] PHP Stack trace:
+[15-Feb-2018 02:30:10 UTC] PHP   1. {main}() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:0
+[15-Feb-2018 02:30:10 UTC] PHP   2. include() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:3
+[15-Feb-2018 02:30:10 UTC] PHP Warning:  include(/index.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/inc/functions.php on line 2
+[15-Feb-2018 02:30:10 UTC] PHP Stack trace:
+[15-Feb-2018 02:30:10 UTC] PHP   1. {main}() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:0
+[15-Feb-2018 02:30:10 UTC] PHP   2. include() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:3
+[15-Feb-2018 02:30:10 UTC] PHP Warning:  include(): Failed opening '/index.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/inc/functions.php on line 2
+[15-Feb-2018 02:30:10 UTC] PHP Stack trace:
+[15-Feb-2018 02:30:10 UTC] PHP   1. {main}() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:0
+[15-Feb-2018 02:30:10 UTC] PHP   2. include() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:3
+[15-Feb-2018 02:30:11 UTC] PHP Warning:  include(/index.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/inc/functions.php on line 2
+[15-Feb-2018 02:30:11 UTC] PHP Stack trace:
+[15-Feb-2018 02:30:11 UTC] PHP   1. {main}() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:0
+[15-Feb-2018 02:30:11 UTC] PHP   2. include() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:3
+[15-Feb-2018 02:30:11 UTC] PHP Warning:  include(): Failed opening '/index.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/inc/functions.php on line 2
+[15-Feb-2018 02:30:11 UTC] PHP Stack trace:
+[15-Feb-2018 02:30:11 UTC] PHP   1. {main}() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:0
+[15-Feb-2018 02:30:11 UTC] PHP   2. include() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:3
+[15-Feb-2018 02:30:11 UTC] PHP Warning:  include(/index.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/inc/functions.php on line 2
+[15-Feb-2018 02:30:11 UTC] PHP Stack trace:
+[15-Feb-2018 02:30:11 UTC] PHP   1. {main}() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:0
+[15-Feb-2018 02:30:11 UTC] PHP   2. include() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:3
+[15-Feb-2018 02:30:11 UTC] PHP Warning:  include(): Failed opening '/index.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/inc/functions.php on line 2
+[15-Feb-2018 02:30:11 UTC] PHP Stack trace:
+[15-Feb-2018 02:30:11 UTC] PHP   1. {main}() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:0
+[15-Feb-2018 02:30:11 UTC] PHP   2. include() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:3
+[15-Feb-2018 02:30:11 UTC] PHP Warning:  include(/index.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/inc/functions.php on line 2
+[15-Feb-2018 02:30:11 UTC] PHP Stack trace:
+[15-Feb-2018 02:30:11 UTC] PHP   1. {main}() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:0
+[15-Feb-2018 02:30:11 UTC] PHP   2. include() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:3
+[15-Feb-2018 02:30:11 UTC] PHP Warning:  include(): Failed opening '/index.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/inc/functions.php on line 2
+[15-Feb-2018 02:30:11 UTC] PHP Stack trace:
+[15-Feb-2018 02:30:11 UTC] PHP   1. {main}() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:0
+[15-Feb-2018 02:30:11 UTC] PHP   2. include() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:3
+[15-Feb-2018 02:30:12 UTC] PHP Warning:  include(/index.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/inc/functions.php on line 2
+[15-Feb-2018 02:30:12 UTC] PHP Stack trace:
+[15-Feb-2018 02:30:12 UTC] PHP   1. {main}() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:0
+[15-Feb-2018 02:30:12 UTC] PHP   2. include() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:3
+[15-Feb-2018 02:30:12 UTC] PHP Warning:  include(): Failed opening '/index.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/inc/functions.php on line 2
+[15-Feb-2018 02:30:12 UTC] PHP Stack trace:
+[15-Feb-2018 02:30:12 UTC] PHP   1. {main}() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:0
+[15-Feb-2018 02:30:12 UTC] PHP   2. include() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:3
+[15-Feb-2018 02:30:12 UTC] PHP Warning:  include(/index.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/inc/functions.php on line 2
+[15-Feb-2018 02:30:12 UTC] PHP Stack trace:
+[15-Feb-2018 02:30:12 UTC] PHP   1. {main}() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:0
+[15-Feb-2018 02:30:12 UTC] PHP   2. include() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:3
+[15-Feb-2018 02:30:12 UTC] PHP Warning:  include(): Failed opening '/index.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/inc/functions.php on line 2
+[15-Feb-2018 02:30:12 UTC] PHP Stack trace:
+[15-Feb-2018 02:30:12 UTC] PHP   1. {main}() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:0
+[15-Feb-2018 02:30:12 UTC] PHP   2. include() /home/ubuntu/workspace/bihernandez/Labs/Lab2/777/index.php:3

@@ -59,8 +59,8 @@
             ${"randomValue" . $i } = rand(0,3);
             displaySymbol(${"randomValue" . $i}, $i);
         }
+
         displayPoints($randomValue1, $randomValue2, $randomValue3);
     }//End of play();
     // *****************************************************************************
-
 ?>
