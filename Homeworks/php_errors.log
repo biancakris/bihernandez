@@ -1,0 +1,14 @@
+[21-Feb-2018 19:13:28 UTC] PHP Fatal error:  Call to undefined function play() in /home/ubuntu/workspace/bihernandez/Homeworks/hw3/index.php on line 16
+[21-Feb-2018 19:13:28 UTC] PHP Stack trace:
+[21-Feb-2018 19:13:28 UTC] PHP   1. {main}() /home/ubuntu/workspace/bihernandez/Homeworks/hw3/index.php:0
+[21-Feb-2018 19:14:14 UTC] PHP Fatal error:  Call to undefined function displayDoor() in /home/ubuntu/workspace/bihernandez/Homeworks/hw3/inc/functions.php on line 34
+[21-Feb-2018 19:14:14 UTC] PHP Stack trace:
+[21-Feb-2018 19:14:14 UTC] PHP   1. {main}() /home/ubuntu/workspace/bihernandez/Homeworks/hw3/index.php:0
+[21-Feb-2018 19:14:14 UTC] PHP   2. play() /home/ubuntu/workspace/bihernandez/Homeworks/hw3/index.php:20
+[21-Feb-2018 19:15:16 UTC] PHP Fatal error:  Call to undefined function displayDoor() in /home/ubuntu/workspace/bihernandez/Homeworks/hw3/inc/functions.php on line 34
+[21-Feb-2018 19:15:16 UTC] PHP Stack trace:
+[21-Feb-2018 19:15:16 UTC] PHP   1. {main}() /home/ubuntu/workspace/bihernandez/Homeworks/hw3/index.php:0
+[21-Feb-2018 19:15:16 UTC] PHP   2. play() /home/ubuntu/workspace/bihernandez/Homeworks/hw3/index.php:20
+[21-Feb-2018 20:46:22 UTC] PHP Fatal error:  Call to undefined function play_end_clean() in /home/ubuntu/workspace/bihernandez/Homeworks/hw3/index.php on line 21
+[21-Feb-2018 20:46:22 UTC] PHP Stack trace:
+[21-Feb-2018 20:46:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/bihernandez/Homeworks/hw3/index.php:0

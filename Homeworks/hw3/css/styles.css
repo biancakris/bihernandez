@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css?family=Baloo+Bhaina');
+body{
+    background-image: url("https://ak5.picdn.net/shutterstock/videos/3658625/thumb/1.jpg?i10c=img.resize(height:72)");
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+#main{
+}
+h1{
+    font-size: 72px;
+    color: white;
+    font-family: 'Baloo Bhaina', cursive;
+}
+#reel1, #reel2, #reel3 
+{
+    top:248px;
+    padding-top: 200px;
+    padding-right: 20px;
+}
+#reel1
+{
+    left:145px; 
+}
+#reel2
+{
+    left:452px;
+}
+#reel3
+{
+    left: 957px;
+}
