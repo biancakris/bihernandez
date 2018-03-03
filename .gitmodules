@@ -1,0 +1,3 @@
+[submodule "Labs/lab3"]
+	path = Labs/lab3
+	url = https://github.com/biancakris/lab3.git

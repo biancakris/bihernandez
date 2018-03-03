@@ -5,34 +5,43 @@
         switch($randomValue)
         {
             case 0: $symbol = "car";
-                    echo "<h1> New Car! <h1>";
+                    echo "<h1> You Won!! <br> New Car! <h1>";
                     break;
             case 1: $symbol = "macchu";
-                    echo "<h1> A Trip to Macchupichhu! <h1>";
+                    echo "<h1> You Won!! <br>A Trip to Macchupichhu! <h1>";
                     break;
             case 2: $symbol = "money";
-                    echo "<h1> 1 Million Dollars!! <h1>";
+                    echo "<h1> You Won!! <br>1 Million Dollars!! <h1>";
                     break;
-            case 3: $symol = "whitehouse";
-                    echo "<h1> New House! <h1>";
+            case 3: $symbol = "whitehouse";
+                    echo "<h1> You Won!! <br>New House! <h1>";
                     break;
-            case 4: $symol = "emptyRoom";
-                    echo "<h1> Sorry You Picked an Empty Room! <h1>";
+            case 4: $symbol = "emptyRoom";
+                    echo "<h1> Sorry <br> You Picked an Empty Room! <h1>";
                     break;
-            case 5: $symol = "emptyRoom";
-                    echo "<h1> Sorry You Picked an Empty Room! <h1>";
+            case 5: $symbol = "emptyRoom";
+                    echo "<h1> Sorry <br> You Picked an Empty Room! <h1>";
                     break;
-            case 6: $symol = "emptyRoom";
-                    echo "<h1> Sorry You Picked an Empty Room! <h1>";
+            case 6: $symbol = "emptyRoom";
+                    echo "<h1> Sorry <br> You Picked an Empty Room! <h1>";
+                    break;
+            case 7: $symbol = "emptyRoom";
+                    echo "<h1> Sorry <br> You Picked an Empty Room! <h1>";
+                    break;
+            case 8: $symbol = "emptyRoom";
+                    echo "<h1> Sorry <br> You Picked an Empty Room! <h1>";
+                    break;
+            case 9: $symbol = "emptyRoom";
+                    echo "<h1> Sorry <br> You Picked an Empty Room! <h1>";
                     break;
         }
         
         //print out prizes
-        echo"<img id='prize' src = 'img/prizes/$symbol.png' alt='$symbol' width = '200'> ";
+        echo"<img id='prize' src = 'img/prizes/$symbol.png' alt='$symbol' height = '500' > ";
     }
     function displayDoor($randomValue, $pos)
     {
-        echo"<a href = /bihernandez/Homeworks/hw3/prize.php> <img id='reel$pos' src= 'img/doors/door$randomValue.png' alt='door$randomValue' height='300'> </a>";
+        echo"<a href = /bihernandez/Homeworks/hw3/prize.php> <img id='reel$pos' src= 'img/doors/door$randomValue.png' alt='door$randomValue' height='350'> </a>";
     }
     
     function play()

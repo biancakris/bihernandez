@@ -12,3 +12,18 @@
 [21-Feb-2018 20:46:22 UTC] PHP Fatal error:  Call to undefined function play_end_clean() in /home/ubuntu/workspace/bihernandez/Homeworks/hw3/index.php on line 21
 [21-Feb-2018 20:46:22 UTC] PHP Stack trace:
 [21-Feb-2018 20:46:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/bihernandez/Homeworks/hw3/index.php:0
+[21-Feb-2018 22:40:50 UTC] PHP Fatal error:  Call to undefined function ob_end_clear() in /home/ubuntu/workspace/bihernandez/Homeworks/hw3/index.php on line 22
+[21-Feb-2018 22:40:50 UTC] PHP Stack trace:
+[21-Feb-2018 22:40:50 UTC] PHP   1. {main}() /home/ubuntu/workspace/bihernandez/Homeworks/hw3/index.php:0
+[26-Feb-2018 23:08:47 UTC] PHP Fatal error:  Cannot redeclare displayPrize() (previously declared in /home/ubuntu/workspace/bihernandez/Homeworks/hw3/inc/functions.php:3) in /home/ubuntu/workspace/bihernandez/Homeworks/hw3/inc/functions.php on line 3
+[26-Feb-2018 23:08:48 UTC] PHP Stack trace:
+[26-Feb-2018 23:08:48 UTC] PHP   1. {main}() /home/ubuntu/workspace/bihernandez/Homeworks/hw3/index.php:0
+[26-Feb-2018 23:08:48 UTC] PHP   2. include() /home/ubuntu/workspace/bihernandez/Homeworks/hw3/index.php:3
+[26-Feb-2018 23:08:50 UTC] PHP Fatal error:  Cannot redeclare displayPrize() (previously declared in /home/ubuntu/workspace/bihernandez/Homeworks/hw3/inc/functions.php:3) in /home/ubuntu/workspace/bihernandez/Homeworks/hw3/inc/functions.php on line 3
+[26-Feb-2018 23:08:50 UTC] PHP Stack trace:
+[26-Feb-2018 23:08:50 UTC] PHP   1. {main}() /home/ubuntu/workspace/bihernandez/Homeworks/hw3/index.php:0
+[26-Feb-2018 23:08:50 UTC] PHP   2. include() /home/ubuntu/workspace/bihernandez/Homeworks/hw3/index.php:3
+[26-Feb-2018 23:09:04 UTC] PHP Fatal error:  Cannot redeclare displayPrize() (previously declared in /home/ubuntu/workspace/bihernandez/Homeworks/hw3/inc/functions.php:3) in /home/ubuntu/workspace/bihernandez/Homeworks/hw3/inc/functions.php on line 3
+[26-Feb-2018 23:09:04 UTC] PHP Stack trace:
+[26-Feb-2018 23:09:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/bihernandez/Homeworks/hw3/index.php:0
+[26-Feb-2018 23:09:04 UTC] PHP   2. include() /home/ubuntu/workspace/bihernandez/Homeworks/hw3/index.php:3

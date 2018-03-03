@@ -4,13 +4,13 @@ body{
     background-repeat: no-repeat;
     background-size:cover;
 }
-#main{
-}
+
 h1{
     font-size: 72px;
     color: white;
     font-family: 'Baloo Bhaina', cursive;
 }
+
 #reel1, #reel2, #reel3 
 {
     top:248px;
@@ -28,4 +28,15 @@ h1{
 #reel3
 {
     left: 957px;
+}
+button
+{
+    width:300px;
+    font-size:30px;
+    background-color: white;
+    color:red;
+    font-weight: bolder;
+    border-radius: 2.8%;
+    text-align: center;
+    text-decoration: underline;
 }

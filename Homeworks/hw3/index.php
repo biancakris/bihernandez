@@ -17,7 +17,7 @@
             <center>
             <h1>Choose a Door</h1>    
             <?php
-        
+            
             play();
             
             ?>
