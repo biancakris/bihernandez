@@ -67,9 +67,9 @@
     <body>
         <center>
         <div id = 'header' style = "">
-            <img src = "https://img.clipartfox.com/4bb8b858f34acd68a373e98093b52d2f_muscular-arm-with-weights-muscular-arm-clipart_434-480.png" style = "width:75px; height:75px;;">
+            <img src = "https://images.clipartuse.com/b6504904f5e194032e61f36898164b42_muscle-arm-clip-art-6-pack-abs-are-still-possible-this-summer-_400-400.png" style = "width:75px; height:75px;;">
             Body Buddy
-            <img src = "https://img.clipartfox.com/4bb8b858f34acd68a373e98093b52d2f_muscular-arm-with-weights-muscular-arm-clipart_434-480.png" style = "width:75px; height:75px; transform: scaleX(-1)">
+            <img src = "https://images.clipartuse.com/b6504904f5e194032e61f36898164b42_muscle-arm-clip-art-6-pack-abs-are-still-possible-this-summer-_400-400.png" style = "width:75px; height:75px; transform: scaleX(-1)">
            <div id = 'headSubtitle'>
                Be Ready to Get Sweaty!!
            </div> 
