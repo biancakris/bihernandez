@@ -3,6 +3,7 @@
     <head>
         <link rel = "stylesheet" href = "css/styles.css"> 
         <link href="https://fonts.googleapis.com/css?family=Lora:700|Scope+One|Arvo|Slabo+27px" rel="stylesheet">
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
         <title> Body Buddy</title>
     </head>
     <body>
@@ -33,13 +34,27 @@
         
         <!--Submit Button-->
         <center>
-        <a href="goalsPage.php">
-            <div id = 'button' style = "width: 25%; bottom: -305px; position: relative" >
+        <div id = 'demo' style = "width: 45%; bottom: -305px; position: relative" >
                 <img src = "http://www.clipartbest.com/cliparts/9i4/p55/9i4p55ExT.png" style = "width:35px; height:35px; top-padding=25px;">
-               I'm Ready! 
+               <button id=button type="button" onclick="loadDoc()">I'm Ready</button> 
                 <img src = "http://www.clipartbest.com/cliparts/9i4/p55/9i4p55ExT.png" style = "width:35px; height:35px; transform: scaleX(-1)">
-            </div>
-        </a>
-         </center>
+        </div>
+        </center>
+        
+        
+        <script>
+        function loadDoc() {
+          var xhttp = new XMLHttpRequest();
+          xhttp.onreadystatechange = function() {
+            if (this.readyState == 4 && this.status == 200) {
+              document.getElementById("demo").innerHTML =
+              this.responseText;
+            }
+          };
+          xhttp.open("GET", "login.php", true);
+          xhttp.send();
+        }
+        </script>
+    
     </body>
 </html>
