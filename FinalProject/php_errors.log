@@ -1,0 +1,6 @@
+[09-May-2018 00:42:01 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'Workout.muscle' doesn't exist' in /home/ubuntu/workspace/bihernandez/FinalProject2/Workout-Regime/goalsPage.php:12
+Stack trace:
+#0 /home/ubuntu/workspace/bihernandez/FinalProject2/Workout-Regime/goalsPage.php(12): PDOStatement->execute()
+#1 /home/ubuntu/workspace/bihernandez/FinalProject2/Workout-Regime/goalsPage.php(159): showMuscles()
+#2 {main}
+  thrown in /home/ubuntu/workspace/bihernandez/FinalProject2/Workout-Regime/goalsPage.php on line 12

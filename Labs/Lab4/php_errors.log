@@ -1,0 +1,7 @@
+[28-Mar-2018 02:44:39 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/ubuntu/workspace/bihernandez/Labs/Lab4/Slider/index.php on line 28
+[28-Mar-2018 04:09:33 UTC] PHP Fatal error:  Maximum execution time of 300 seconds exceeded in /home/ubuntu/workspace/bihernandez/Labs/Lab4/Slider/index.php on line 39
+[28-Mar-2018 04:09:33 UTC] PHP Stack trace:
+[28-Mar-2018 04:09:33 UTC] PHP   1. {main}() /home/ubuntu/workspace/bihernandez/Labs/Lab4/Slider/index.php:0
+[28-Mar-2018 04:29:32 UTC] PHP Fatal error:  Maximum execution time of 300 seconds exceeded in /home/ubuntu/workspace/bihernandez/Labs/Lab4/Slider/index.php on line 47
+[28-Mar-2018 04:29:32 UTC] PHP Stack trace:
+[28-Mar-2018 04:29:32 UTC] PHP   1. {main}() /home/ubuntu/workspace/bihernandez/Labs/Lab4/Slider/index.php:0
